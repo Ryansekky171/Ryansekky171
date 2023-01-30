@@ -1,12 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000CD&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ryan+Farias;I'm+19+years+old;I'm+from+Brazil;I+Graduating+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)   
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3CB371&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ryan+Farias;I'm+19+years+old;I'm+from+Brazil;I+Graduating+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)   
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ryansekky171&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="Ryan Farias github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryansekky171&layout=compact&hide_border=true&title_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ryansekky171&show_icons=true&count_private=true&hide_border=true&title_color=3CB371&icon_color=00FF00&text_color=c9d1d9&bg_color=0d1117" alt="Ryan Farias github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryansekky171&layout=compact&hide_border=true&title_color=3CB371&text_color=00FF00&bg_color=0d1117" />
   
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ryansekky171&bg_color=0d1117&color=1E90FF&line=0000CD&point=1E90FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ryansekky171&bg_color=0d1117&color=006400&line=006400&point=00FF00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 <div align="center"> 
@@ -40,6 +40,6 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=120&section=footer"/>
 
 
