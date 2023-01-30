@@ -21,12 +21,16 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![Phyton](https://img.shields.io/badge/-Phyton-0D1117?style=for-the-badge&logo=Phyton&logoColor=Phyton&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&logoColor=Java&labelColor=0D1117)&nbsp;
+![Sql](https://img.shields.io/badge/-Sql-0D1117?style=for-the-badge&logo=Sql&logoColor=sql&labelColor=0D1117)&nbsp;
+
+
 
 ### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-c#-0D1117?style=for-the-badge&logo=c#&logoColor=c#&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-C#-0D1117?style=for-the-badge&logo=C#&logoColor=C#&labelColor=0D1117)&nbsp;
 
 
 <div align="center">
